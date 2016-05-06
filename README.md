@@ -1,4 +1,4 @@
-# Hierarchy tax rate calculation
+# Hierarchy tax rate calculation in single query
 calculate from salary 1100000
 LOWER	  UPPER	    PERCENT	NET_TOTAL_AMT
 1	      700000	  3.6	    25200
