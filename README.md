@@ -8,4 +8,6 @@ LOWER	  UPPER	    PERCENT	NET_TOTAL_AMT
 1800001	999999999	5.4	    0
 
 output = 40200
+
 bbbb
+aaa
